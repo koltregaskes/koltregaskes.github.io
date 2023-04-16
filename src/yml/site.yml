@@ -1,6 +1,13 @@
+formspree_form_id: xoqzpzog
 name: Kol's Korner
-title: Your Cozy Corner for AI, tech, science, photography, art, and more
-description: Welcome to Kol's Korner, an online space dedicated to showcasing a diverse array of interests, from artificial intelligence and cutting-edge technology to groundbreaking science, mesmerizing photography, and captivating art. Join us as we delve into the ever-evolving world of creativity and innovation, uncovering new insights, inspirations, and adventures along the way.
+title: Kol's Korner ¦ Your cozy corner for AI, tech, science, photography, art,
+  and more
+description: Welcome to Kol's Korner, an online space dedicated to showcasing a
+  diverse array of interests, from artificial intelligence and cutting-edge
+  technology to groundbreaking science, mesmerizing photography, and captivating
+  art. Join us as we delve into the ever-evolving world of creativity and
+  innovation, uncovering new insights, inspirations, and adventures along the
+  way.
 tags:
   - blog
   - AI
@@ -27,8 +34,4 @@ menu:
   - title: Feed
     url: /feed.xml
 email: me@koltregaskes.com
-# See: https://disqus.com/
-disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: xoqzpzog
+disqus_username: ""
