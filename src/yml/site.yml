@@ -27,13 +27,13 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Photography
+    url: https://koltregaskesphotography.com/
   - title: About
     url: /about
   - title: Contact
     url: /contact
   - title: Feed
     url: /feed.xml
-  - title: Photography
-    url: https://koltregaskesphotography.com/
 email: me@koltregaskes.com
 disqus_username: ""
