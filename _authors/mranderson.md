@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/me-mk-ii.jpg
 name: Kol
 display_name: Kol Tregaskes
 position: ""
