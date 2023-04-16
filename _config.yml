@@ -1,8 +1,9 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Kol's Korner
+title: Your Cozy Corner for tech, science, photography, art, and more
+description: Welcome to Kol's Korner, an online space dedicated to showcasing a diverse array of interests,
+ from cutting-edge technology and groundbreaking science to mesmerizing photography and captivating art. 
+ Join us as we delve into the ever-evolving world of creativity and innovation, uncovering new insights, inspirations, and adventures along the way.
 tags:
   - blog
   - template
