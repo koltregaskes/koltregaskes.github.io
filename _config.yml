@@ -1,15 +1,22 @@
 # Site Settings
 name: Kol's Korner
-title: Your Cozy Corner for tech, science, photography, art, and more
-description: Welcome to Kol's Korner, an online space dedicated to showcasing a diverse array of interests,
- from cutting-edge technology and groundbreaking science to mesmerizing photography and captivating art. 
- Join us as we delve into the ever-evolving world of creativity and innovation, uncovering new insights, inspirations, and adventures along the way.
+title: Your Cozy Corner for AI, tech, science, photography, art, and more
+description: Welcome to Kol's Korner, an online space dedicated to showcasing a diverse array of interests, from artificial intelligence and cutting-edge technology to groundbreaking science, mesmerizing photography, and captivating art. Join us as we delve into the ever-evolving world of creativity and innovation, uncovering new insights, inspirations, and adventures along the way.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - AI
+  - technology
+  - science
+  - photography
+  - art
+  - artificial-intelligence
+  - tech-news
+  - design
+  - web-development
+  - programming
+  - robotics
+  - space
+  - environment
 show_hero: true
 menu:
   - title: Home
@@ -20,12 +27,12 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: me@koltregaskes.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: xoqzpzog
 
 
 # Social Media Settings
