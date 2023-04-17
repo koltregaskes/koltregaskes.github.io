@@ -1,7 +1,13 @@
 # Site Settings
 name: Kol's Korner
-title: Your Cozy Corner for AI, tech, science, photography, art, and more
-description: Welcome to Kol's Korner, an online space dedicated to showcasing a diverse array of interests, from artificial intelligence and cutting-edge technology to groundbreaking science, mesmerizing photography, and captivating art. Join us as we delve into the ever-evolving world of creativity and innovation, uncovering new insights, inspirations, and adventures along the way.
+title: Kol's Korner ¦ Your cozy corner for AI, tech, science, photography, art,
+  and more
+description: Welcome to Kol's Korner, an online space dedicated to showcasing a
+  diverse array of interests, from artificial intelligence and cutting-edge
+  technology to groundbreaking science, mesmerizing photography, and captivating
+  art. Join us as we delve into the ever-evolving world of creativity and
+  innovation, uncovering new insights, inspirations, and adventures along the
+  way.
 tags:
   - blog
   - AI
@@ -32,7 +38,7 @@ menu:
 
 email: me@koltregaskes.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: 
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: xoqzpzog
@@ -41,11 +47,11 @@ formspree_form_id: xoqzpzog
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: koltregaskes
-# facebook_username: facebook_username
+facebook_username: 
 twitter_username: koltregaskes
 instagram_username: koltregaskes
-# linkedin_username: linkedin_username
-# medium_username: medium_username
+linkedin_username: 
+medium_username: 
 
 
 # Posts Settings
@@ -58,7 +64,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "368810850"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
