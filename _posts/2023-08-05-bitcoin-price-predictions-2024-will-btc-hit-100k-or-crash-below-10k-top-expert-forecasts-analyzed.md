@@ -13,7 +13,7 @@ description: What is the most likely Bitcoin price in 2024 according to expert
   impact.
 image: /assets/img/uploads/koltregaskes_a_neo-futuristic_cityscape_powered_by_bitcoin_skys_9582ad69-d066-4e26-96c8-b3697efde16d.png
 optimized_image: ""
-category: blog
+category: "{{slug}}"
 tags:
   - bitcoin
   - cryptocurrency
