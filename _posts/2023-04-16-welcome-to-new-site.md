@@ -1,7 +1,7 @@
 ---
 date: 2023-04-16 18:35:20
 layout: post
-title: Welcome to my new site
+title: Welcome to my new site!
 subtitle: ""
 description: Welcome to my new site!
 image: /assets/img/uploads/branch-in-the-sunrise.jpg
