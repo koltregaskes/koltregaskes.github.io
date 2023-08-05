@@ -1,8 +1,8 @@
 ---
 date: 2023-08-05 15:10:16
 layout: post
-title: "Bitcoin Price Predictions 2024: Will BTC Hit $100k or Crash Below $10k?
-  Top Expert Forecasts Analyzed"
+title: Bitcoin Price Predictions 2024
+subtitle: Will BTC Hit $100k or Crash Below $10k? Top Expert Forecasts Analyzed
 description: What is the most likely Bitcoin price in 2024 according to expert
   projections? This comprehensive guide analyzes predictions from JPMorgan,
   Bloomberg, Coinpedia and more to estimate valuation.  The compelling page
@@ -12,7 +12,7 @@ description: What is the most likely Bitcoin price in 2024 according to expert
   would like me to modify the title or description further for optimal SEO
   impact.
 image: /assets/img/uploads/koltregaskes_a_neo-futuristic_cityscape_powered_by_bitcoin_skys_9582ad69-d066-4e26-96c8-b3697efde16d.png
-category: crypto
+category: "{{slug}}"
 tags:
   - bitcoin
   - cryptocurrency
