@@ -23,7 +23,7 @@ tags:
   - robotics
   - space
   - environment
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
