@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Crypto
+title: Crypto-old
 slug: "{{slug}}"
-description: Cryptocurrency
+description: Cryptocurrency-old
 ---
