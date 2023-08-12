@@ -1,160 +1,213 @@
 ---
 date: 2023-08-12 20:00:11
 layout: post
-title: What Businesses Need to Know About the Risks of Generative AI
-description: Generative AI like ChatGPT brings huge opportunities but also
-  complex risks for enterprises. Learn key challenges and actionable strategies
-  for responsible and compliant integration.
-category: blog
+title: " A Layperson's Guide to Managing AI Risks for Businesses"
+subtitle: Demystifying the Major Generative AI Risks for Enterprise Leaders
+description: Generative AI like ChatGPT brings huge opportunities but also risks
+  for companies. This plain English guide explores key challenges and actionable
+  mitigation strategies for secure, ethical and legal AI adoption.
+image: /assets/img/uploads/koltregaskes_a_concerned_businesswoman_standing_in_a_futuristic_c45e80df-c605-4dae-9d69-1781e07661f4.png
+category: "{{slug}}"
 tags:
+  - ai risks
+  - ai compliance
+  - ai ethics
+  - ai security
+  - responsible ai
   - generative ai risks
   - chatgpt risks
-  - ai compliance
-  - responsible ai
-  - ai security
+  - chatgpt enterprise risks
+  - managing ai risks
+  - ai vulnerability
   - ai governance
-  - ai policy
-  - ai ethics
-  - ai regulations
-  - ai vulnerabilities
   - ai transparency
-  - ai threats
-  - ai reputation
   - ai bias
-  - ai explainability
-  - ai audits
-  - ai oversight
-  - ai controls
-  - ai risk management
+  - ai reputation damage
+  - ai regulations
+  - ai legal issues
 author: Kol
 paginate: false
 ---
-# Generative AI and ChatGPT: Navigating the Emerging Business Landscape
+ChatGPT and similar AI tools are causing lots of excitement lately. They can write, code, draw and more! But as with any new technology, they also come with risks for companies.
 
-The recent release of [ChatGPT](https://openai.com/blog/chatgpt/ "ChatGPT announcement"), an AI system capable of generating human-like text, has sparked tremendous interest and rapid adoption across enterprises. However, while generative AI promises to transform businesses, it also poses complex risks that demand thoughtful navigation. This article explores the key challenges and provides informed strategies to harness these powerful tools responsibly.
+In this article, we’ll outline the key challenges with AI like ChatGPT in plain English. We’ll also share some smart ways your business can address them.
 
-## The Generative AI Revolution
+## How Generative AI is Changing the Game
 
-Generative AI represents a paradigm shift in artificial intelligence. Models like ChatGPT can synthesize information and produce novel, coherent content on demand. This move from reactive to generative capabilities opens new possibilities for automating business processes like customer service, report writing, and content creation. However, it also disrupts existing workflows and introduces unfamiliar risks.
+Generative AI systems can make completely new content on their own. Unlike older AI, they don’t just analyze data that humans give them. For example, ChatGPT can write articles, poems, code and more from scratch!
 
-Adoption of these cutting-edge systems has already happened faster than many organizations anticipated. In fact, ChatGPT accumulated [over 100 million users](https://fortune.com/2023/02/01/chatgpt-users-no-advertising-revenue-openai-api-microsoft-bing-search-chatbot-ai/) within two months of launch⸻far outpacing predecessors like the iPhone. With 60% of enterprises expected to adopt AI by 2024, proactive planning is essential (*[Gartner](https://www.gartner.com/en/newsroom/press-releases/2019-08-05-gartner-predicts-70--of-enterprises-will-intellige)*).
+These technologies are spreading incredibly fast. ChatGPT hit 100 million users in just two months! Industry experts say 60% of companies will use AI like this by 2024.
 
-> "The use of chatbots and virtual agents will grow rapidly over the next two years. By 2022, we predict that 25% of digital workers will use virtual employees daily, up from less than 2% in 2017." - *Gartner*
+So in many industries, AI will soon become vital to how work gets done. It can handle tasks like:
 
-This exponential growth leaves little time for organizations to evaluate risks and align policies before deployment. By understanding key issues early, enterprises can integrate generative AI safely, strategically, and in compliance with emerging regulations.
+* Answering customer questions
+* Writing marketing content
+* Coding software projects
+* Analyzing data to spot trends
 
-## Fabricated Content Risks
+This will bring big changes to how companies operate. AI can automate manual processes to cut costs. But it also disrupts existing ways of doing things. Companies will need to upgrade skills and security for the new AI-powered era.
 
-A core appeal of generative AI systems is their ability to produce volumes of original, human-like content. However, fabricated information also poses significant dangers if deployed without diligence.
+> “By 2022, 25% of digital workers will use AI daily, up from less than 2% in 2017.” - Gartner
 
-For customer-facing applications, incorrect data or advice could erode trust or trigger legal liabilities. Even for internal uses, blindly acting on AI-generated insights without verification can lead to flawed decisions with real consequences. And generative models [reflect biases](https://towardsdatascience.com/managing-bias-in-ai-3f3c64128f3c) present in their training data, producing potentially discriminatory or unethical outputs.
+The rapid growth means businesses should start addressing risks now before deploying AI widely. With smart strategies, companies can integrate AI safely and legally.
 
-Establishing robust [human-in-the-loop](https://emerj.com/ai-glossary-terms/human-in-the-loop/) review processes and validating all AI outputs is crucial. Organizations must also implement systems to detect generated content, with clear [disclosures](https://www.ftc.gov/news-events/blogs/business-blog/2022/11/ftc-issues-warning-companies-using-ai-tools-generate-content) where required by law. Proactively addressing these risks will minimize legal, ethical and reputational pitfalls.
+## The Risk of Fake Content
 
-## Data Privacy and Security Challenges
+A big appeal of ChatGPT is its amazingly human-like content. But for business uses, false information can be very risky.
 
-Most generative AI systems rely on vast datasets to train machine learning models. Enterprises must ensure strict data governance practices to avoid unintended exposure when providing access.
+AI still makes many mistakes. Without oversight, it could give wrong data or advice to customers. This erodes trust and may cause legal issues.
 
-Threat actors could potentially exploit vulnerabilities to [breach training data](https://hbr.org/2022/12/understanding-the-security-risks-of-ai) or manipulate inputs to taint AI models. Even authorized access introduces risks of intellectual property (IP) theft or non-compliance with regulations like GDPR. Carefully scoping permissions, monitoring data flows, and implementing robust cybersecurity controls is imperative.
+AI also reflects societal biases. It can generate offensive or harmful content that damages reputations.
 
-Some providers claim to anonymize user data, but contracts should mandate transparency and independent audits for verification. Handling personal information also requires compliance with evolving data privacy laws worldwide⸻a complex landscape still lacking AI-specific frameworks. Until comprehensive regulations emerge, legal review of data practices is strongly advised to avoid violations.
+Companies must check all AI outputs before use. Review processes to verify facts are essential. AI disclaimers on generated materials are vital too. This minimizes risks to reputation, ethics and legal compliance.
 
-## Automating Bad Actors with AI
+Here’s a specific example:
 
-Generative AI similarly empowers malicious actors to refine and multiply threats at speed and scale. Advanced phishing attacks could leverage AI-generated personalization and credibility to exploit human psychology. Misinformation campaigns may use fabricated 'evidence' to manipulate opinions and sow discord.
+A bank wants to use AI to generate mortgage advice for customers on its website. But without checks in place, the AI could provide inaccurate financial guidance that seems legitimate. This exposes the bank to legal liability and loss of trust.
 
-Defending against AI-enhanced capabilities requires security teams to implement behavioral analysis for early detection and constantly update awareness training. Bringing ethics expertise into risk assessments can also help align models to organizational values and prevent harmful applications. As part of cyber resilience, enterprise [war gaming](https://digitalguardian.com/blog/what-cyber-war-gaming-and-should-you-be-doing-it-your-organization) should incorporate scenarios leveraging AI attacks to close preparedness gaps.
+By establishing human review of all AI-created mortgage content before publication, the bank ensures advice given is fact-checked. This protects customers and the bank’s reputation.
 
-## Opaque Algorithms and Explainability
+## Securing Sensitive Data
 
-The complexity of generative AI presents challenges for governance and compliance. The black-box nature of underlying neural networks makes it difficult to fully explain or audit their reasoning. However, regulators increasingly demand [interpretability](https://www.information-age.com/eu-plans-greater-ai-explainability-123497049/) to ensure fairness and avoid discrimination in automated decisions.
+Most AI needs massive data sets to train on. So companies must be very careful giving it access.
 
-While full transparency may not be feasible presently, enterprises can implement mechanisms for evaluating algorithmic accountability and probing results. Documenting training data provenance also provides useful context on potential biases. Pursuing explainability helps build trust in AI systems even without visibility into their inner workings.
+Flaws could let hackers steal training data. They could also corrupt the AI by [poisoning data](https://bair.berkeley.edu/blog/2022/12/12/lm-vulnerabilities/). Even authorized access creates risks of intellectual property theft and legal violations.
 
-## Unvetted AI Code Risks
+To secure data, companies need strong access controls, encryption and auditing. They should limit data types shared, enable opt-outs, and restrict permissions. Anonymizing data helps lower risks.
 
-For software engineering teams, generative AI offers capabilities like automated code generation. However, integrating unreviewed code into production systems is extremely risky. Flaws or vulnerabilities could disrupt operations, enable breaches, and corrupt data.
+Some vendors claim to anonymize user data. But companies should still demand transparency and audit rights. Handling personal data also requires navigating complex global privacy laws. Hiring qualified legal help is strongly advised.
 
-Establishing robust pipelines for static and dynamic [code analysis](https://www.perforce.com/blog/qac/security-techniques-static-code-analysis), penetration testing, and manual reviews is essential before deployment. Human developers should oversee AI-assisted development rather than being replaced entirely. Continuously monitoring performance can also detect emerging anomalies and weaknesses. With rigorous validation in place, AI can enhance development velocity and code quality.
+Here’s an example:
 
-## The Path Forward with Responsible AI
+A healthcare provider wants to use AI for research. This involves sensitive patient data. If compromised, the provider could face major HIPAA fines or lawsuits.
 
-Generative AI marks a turning point for enterprises, but also raises complex questions around governance, ethics, and risk. By enacting the recommendations outlined below, organizations can integrate these transformative tools while upholding safety, accountability, and trust:
+By anonymizing data before allowing the AI access, the risk of exposure is reduced. The provider also undergoes strict audits of the AI vendor’s security controls and protocols before deployment. This helps ensure compliance and responsible data handling.
 
-* **Conduct comprehensive risk assessments** considering the expanded attack surface, unintended consequences, and blind spots
-* **Develop policies and controls** governing AI access permissions, output verification, and human oversight
-* **Validate all AI outputs** across accuracy, security, legal/ethical factors before use
-* **Maintain human accountability** over AI systems through workflows for oversight and approval
-* **Prioritize transparency and explainability** via documentation, audits, and probing opaque aspects of AI
-* **Continuously monitor and test** generative AI applications to identify emerging vulnerabilities
-* **Incorporate AI implications** into security awareness programs and cyber war gaming
-* **Pursue responsible AI design principles** focused on fairness, safety, privacy, and ethics
-* **Closely track regulatory developments** to ensure compliant application and avoid violations
+## AI-Enhanced Cyber Threats
 
-With deliberate planning and mitigations in place, enterprises can unlock immense opportunities from generative AI's expanding capabilities. But sound risk management practices must anchor integration to avoid dangerous pitfalls. By upholding safety and ethics alongside innovation, businesses can implement AI responsibly and strategically for maximum benefit.
+Unfortunately, AI also gives bad actors new powers. Advanced phishing attacks could use AI-generated personalization and credibility to better exploit human psychology. Disinformation campaigns may create highly believable false evidence using AI.
+
+To defend their firms, security leaders must update strategies and training. Simulating AI-enhanced threats during exercises helps identify vulnerabilities. Involving ethicists in risk reviews promotes AI aligned with company values.
+
+Here’s an example:
+
+A cybercriminal group uses AI to study a company’s public communications. The AI then generates a phishing email mimicking the CEO’s writing style. This tricks an employee into wiring funds to the criminals.
+
+By training staff to identify AI-generated text, businesses can better spot and stop attacks. Running simulated AI phishing drills also improves responses. Proactive defense minimizes damage.
+
+## The Black Box Challenge
+
+The complexity of AI systems like ChatGPT makes them hard to audit thoroughly. This “black box” issue creates governance and compliance challenges.
+
+Regulators want more AI explainability to ensure fairness and prevent discrimination. While full transparency isn’t feasible yet, some solutions exist. Documenting training data sources provides useful context about potential biases. Emerging tools for probing AI decisions are also helping.
+
+Pursuing explainability builds trust despite limited visibility into AI’s inner workings. Ongoing research aims to shed more light on these black box systems.
+
+Here’s an example:
+
+A lending institution uses AI to assess loan applicants. But regulators want to ensure the AI does not make unfair decisions based on race, age or gender.
+
+By documenting exactly what data is used to train the AI, the lender provides assurance no prohibited factors are considered. New algorithms also help probe the AI’s reasoning on specific cases when needed. This supports compliance and accountability.
+
+## Reviewing AI-Generated Code
+
+For software teams, AI coding promises huge efficiency gains. However, blindly integrating unvetted code is very risky.
+
+Bugs or vulnerabilities could critically disrupt operations, enable data breaches and corrupt systems. All AI code requires rigorous reviews, testing and approvals pre-launch.
+
+Human oversight is still essential in AI-assisted development. Continuous performance monitoring also catches emerging issues over time. With diligence, AI can significantly boost development speed and quality.
+
+Here’s an example:
+
+A start-up uses AI to accelerate writing new code for its product. But in its haste, it deploys the code without testing it thoroughly.
+
+Soon after launch, bugs crop up that cause severe service outages. Users’ personal data is also exposed publicly due to flaws in the AI-generated code.
+
+Preventative measures like code audits, penetration testing, and gradual rollout could have avoided this. The start-up resolves to implement prudent devops with all future AI coding assisting engineers.
+
+## Moving Forward Responsibly
+
+Sustainable success with AI requires focusing on people as much as technology. Companies can adopt AI responsibly by:
+
+* Reviewing risks for all new AI uses, data and integrations
+* Making careful policies governing access permissions and oversight
+* Ensuring human validation of AI outputs before acting on them
+* Maintaining human accountability over all AI systems
+* Enabling ways to probe opaque aspects of complex AI tools
+* Continuously monitoring AI for evolving performance issues
+* Incorporating simulated AI threats into security drills
+* Aligning AI with ethical values and social responsibility
+
+With robust precautions, companies can tap into leading-edge AI securely. Oversight ensures tech aligns with human values. If done right, AI can drive new growth while minimizing downsides. The future looks bright for AI and business together!
+
+## Key AI Terms
+
+* [AI ethics](https://ethics.fast.ai/) - Ensuring AI operates fairly, safely and aligned with moral values.
+* [Trustworthy AI](https://ieeexplore.ieee.org/document/9357233) - AI systems that are transparent, manage risks responsibly and protect data rights.
+* [Explainability](https://www.ibm.com/cloud/learn/explainable-ai) - Making opaque AI systems more understandable to humans.
+* [Uncertainty](https://www.fhi.ox.ac.uk/decisions-under-uncertainty/) - AI predictions have degrees of uncertainty which should be weighed appropriately.
+* [Environmental impact](https://www.weforum.org/agenda/2022/07/ai-carbon-footprint-training-models-climate-change/) - AI's energy use creates substantial carbon emissions contributing to climate change.
+* [Cloud computing](https://azure.microsoft.com/en-us/services/machine-learning/) - Delivering on-demand AI computing power via the internet.
+* [Intellectual property](https://www.wipo.int/wipo_magazine/en/2019/05/article_0003.html) - Innovations protected by patents, copyrights and trademarks.
+* [Source code](https://thenextweb.com/news/github-copilot-ai-copyright-infringement) - The programming code that software is built from.
+* [Trade secrets](https://www.natlawreview.com/article/chatgpt-trade-secrets-and-ai) - Confidential business information providing competitive advantage.
+* [Customer data](https://digit.hbs.org/submission/how-ai-is-transforming-customer-data-management/) - Information collected about customers and their behaviors.
+* [Private information](https://iapp.org/news/a/generative-ai-and-data-protection-mind-the-privacy-risks/) - Personal data and other sensitive details.
+* [Confidential information](https://www.tripwire.com/state-of-security/risk-based-security-for-executives/risk-management/confidential-information-risks/) - Sensitive business data meant only for authorized access.
+* [Contractual obligations](https://mccarthy.ca/en/insights/blogs/canadian-technology-ip-law-blog/legal-risks-and-opportunities-ai-generated-content-canadian-law) - Commitments made between businesses required by agreements.
+* [Regulatory obligations](https://www.whitecase.com/publications/alert/eu-proposed-artificial-intelligence-regulation) - Requirements businesses must comply with under laws.
+* [Plagiarism](https://cacm.acm.org/magazines/2022/12/267352-ai-authorship/fulltext) - Passing off others' work as your own.
+* [Deepfakes](https://www.perkinscoie.com/en/news-insights/deepfakes-and-ai-ip-and-generativ.html) - AI-generated fake images, videos and audio that seem real.
+* [Copyright infringement](https://www.eff.org/deeplinks/2022/08/if-ai-creates-it-who-owns-it) - Using copyright-protected work without permission.
+* [Safety](https://standards.ieee.org/industry-connections/ec/autonomous-systems.html) - Protecting people from harm from AI.
+* [Reputational damage](https://sloanreview.mit.edu/article/managing-reputational-risk-in-the-ai-era/) - Loss of trust and credibility from AI-related incidents.
+* [Bias](https://www.partnershiponai.org/wp-content/uploads/2021/03/Broadening-AI%E2%80%99s-Impact-Through-Diversity-Equity-and-Inclusion.pdf) - Unfair prejudice in AI reflective of poor training data.
+* [Discrimination](https://ainowinstitute.org/discriminatingsystems.pdf) - Unjust treatment based on protected characteristics like race or gender.
+
+Let me know if the simplified explanations help make the key concepts more accessible and understandable for readers. I'm happy to clarify or refine any of the AI terms further.
+
+## References
+
+Deloitte. “[Trustworthy AI](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/about-deloitte/deloitte-cn-trusted-ai-en-180928.pdf).” 2018.
+
+Metz, Cade. "[A.I. Systems Should Be Accountable for Their Actions](https://www.nytimes.com/2022/12/06/technology/artificial-intelligence-accountability-wisconsin.html)." *The New York Times*, 2022.
+
+<!--StartFragment-->
 
 ### Frequently Asked Questions
 
 **What is generative AI?**
 
-Generative AI refers to machine learning models that can produce novel, original content. Unlike traditional AI systems that simply analyze data, generative models can synthesize text, images, audio, code and more from scratch. Popular examples include ChatGPT, DALL-E 2, and GitHub Copilot.
+Generative AI refers to advanced systems that can create brand new content like text, images, audio and video. Unlike traditional AI, they don’t just analyze data - they can produce their own original output. Popular examples are ChatGPT, DALL-E 2 and GitHub Copilot.
 
-**How does generative AI work?**
+**How can businesses use generative AI?**
 
-Generative AI models are trained on massive datasets to identify patterns in content. They learn the relationships between words, pixels, code syntax etc. to build an understanding of natural language, visuals and other formats. With this foundation, the models can then generate new examples following established conventions. Under the hood, models use neural networks and statistical techniques to deliver human-like outputs.
+Common uses include creating marketing copy, answering customer service questions, generating code, analyzing data to find insights, automating workflows and assisting human developers. The technology is rapidly spreading across industries.
 
-**What risks does generative AI pose for businesses?**
+**What risks does generative AI have for companies?**
 
-Key risks for enterprises include biased/inaccurate content, data protection issues, regulatory non-compliance, intellectual property violations, opaque algorithms, and security vulnerabilities if AI code isn't properly vetted. However, with governance and mitigation strategies, these risks can be managed.
+Major risks include biased or false outputs, cybersecurity vulnerabilities, compliance issues with handling sensitive data, legal liability if AI content causes harm, lack of transparency into how systems work, and integrating unvetted AI-generated code.
 
-**How can businesses use generative AI responsibly?**
+**How can businesses mitigate generative AI risks?**
 
-Responsible usage starts with comprehensive risk assessments accounting for expanded threats. Policies and controls governing access permissions, human oversight, output verification, continuous monitoring, and ethics principles enable safe integration. Maintaining accountability and focusing on explainable, trustworthy AI builds confidence.
+Strategies include comprehensive risk assessments, strict access controls for data, validating all AI outputs, maintaining human oversight, monitoring systems for issues, aligning models to ethical values, training staff on risks, and having robust review processes for AI code before deployment.
 
 **What regulations apply to generative AI?**
 
-Currently, most laws governing AI are sector-specific, e.g. for self-driving vehicles. Broad regulations are still evolving. However, existing privacy, consumer protection, copyright, free speech and non-discrimination laws still apply in many jurisdictions. It's critical to monitor regulatory changes applicable to your business activities and location.
+Current laws related to privacy, cybersecurity, consumer protection, copyright, accessibility, free speech and bias may apply depending on the use case. But regulations specific to AI are still emerging. Organizations should monitor legal obligations in jurisdictions where they operate.
 
 **How can I optimize generative AI content for SEO?**
 
-Use keyword research to identify terms and conversations to target. Generate lots of long-form, high quality content rich in semantic keywords. Include meta descriptions, schema markup and alt text. Produce different media formats like text, videos, infographics etc. Promote content through social media, outreach and PR. Analyze performance in search to continually refine.
+Conduct keyword research for topics to target. Produce lots of long-form, high quality content rich in semantic keywords. Include structured data markup. Generate multimedia formats like images, videos and podcasts. Promote across social media, outreach and PR. Analyze search performance to refine over time.
 
-**What are best practices for securing generative AI?**
+**What are some best practices for securing generative AI?**
 
-Robust access controls, encryption, permission scoping, data anonymization, model monitoring, output validation, penetration testing AI code, human review procedures, and comprehensive cyber resilience strategies anchored in zero trust principles. Enable security teams to simulate AI-enhanced threats.
+Robust access controls, encryption, data anonymization, model monitoring, output validation, penetration testing AI code, human-in-the-loop review procedures, continuous auditing capabilities, and comprehensive cyber resilience strategies anchored in zero trust principles.
 
-**How do I develop a generative AI policy for my company?**
+**How do companies develop a generative AI policy?**
 
-Document acceptable use guidelines based on risks. Outline data sharing procedures, human oversight requirements, controls, auditing processes, and ethics principles. Maintain accountability with senior management approval workflows. Provide staff training on policy and risks. Regularly review to adapt to evolving generative AI capabilities and regulations.
+Document acceptable use guidelines based on risk assessments. Outline data access procedures, human oversight requirements, controls, audits, and ethics principles. Maintain accountability with executive approval workflows. Provide staff training on policies and risks. Regularly review and update policies as technology and regulations evolve.
 
-## Related Keywords
 
-* [AI ethics](https://ethics.fast.ai/)
-* [Trustworthy AI](https://ieeexplore.ieee.org/document/9357233)
-* [Explainability](https://www.ibm.com/cloud/learn/explainable-ai)
-* [Uncertainty](https://www.fhi.ox.ac.uk/decisions-under-uncertainty/)
-* [Environmental impact](https://www.weforum.org/agenda/2022/07/ai-carbon-footprint-training-models-climate-change/)
-* [Cloud computing](https://azure.microsoft.com/en-us/services/machine-learning/)
-* [Intellectual property](https://www.wipo.int/wipo_magazine/en/2019/05/article_0003.html)
-* [Source code](https://thenextweb.com/news/github-copilot-ai-code-copyright-infringement)
-* [Trade secrets](https://www.natlawreview.com/article/chatgpt-trade-secrets-and-ai)
-* [Customer data](https://digit.hbs.org/submission/how-ai-is-transforming-customer-data-management/)
-* [Private information](https://iapp.org/news/a/generative-ai-and-data-protection-mind-the-privacy-risks/)
-* [Confidential information](https://www.tripwire.com/state-of-security/risk-based-security-for-executives/risk-management/confidential-information-risks/)
-* [Contractual obligations](https://mccarthy.ca/en/insights/blogs/canadian-technology-ip-law-blog/legal-risks-and-opportunities-ai-generated-content-canadian-law)
-* [Regulatory obligations](https://www.whitecase.com/publications/alert/eu-proposed-artificial-intelligence-regulation)
-* [Plagiarism](https://cacm.acm.org/magazines/2022/12/267352-ai-authorship/fulltext)
-* [Deepfakes](https://www.perkinscoie.com/en/news-insights/deepfakes-and-ai-ip-and-generativ.html)
-* [Copyright infringement](https://www.eff.org/deeplinks/2022/08/if-ai-creates-it-who-owns-it)
-* [Safety](https://standards.ieee.org/industry-connections/ec/autonomous-systems.html)
-* [Reputational damage](https://sloanreview.mit.edu/article/managing-reputational-risk-in-the-ai-era/)
-* [Bias](https://www.partnershiponai.org/wp-content/uploads/2021/03/Broadening-AI%E2%80%99s-Impact-Through-Diversity-Equity-and-Inclusion.pdf)
-* [Discrimination](https://ainowinstitute.org/discriminatingsystems.pdf)
 
-## References
-
-Deloitte. "[Trustworthy AI](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/about-deloitte/deloitte-cn-trusted-ai-en-180928.pdf)." 2018.
-
-Metz, Cade. "[A.I. Systems Should Be Accountable for Their Actions](https://www.nytimes.com/2022/12/06/technology/artificial-intelligence-accountability-wisconsin.html)." *The New York Times*, 2022.
-
-*Disclaimer: This article was automatically generated by an AI assistant created by Anthropic to provide general information and analysis on the topic of generative AI risks for enterprises. It should not be considered legal, financial, or professional advice. The content does not necessarily represent the views of the author or publisher of this site. Please consult a qualified professional for any personal or business needs related to AI adoption, risks, regulations, or policies.*
+***Disclaimer:** This article was generated automatically using AI to provide general information about enterprise risks with generative AI and ChatGPT. It should not be considered professional or legal advice. The content does not necessarily represent the views of the publisher. Please consult qualified professionals regarding your specific needs and obligations.*
