@@ -1,7 +1,7 @@
 ---
 date: 2024-01-14 14:14:26
 layout: post
-title: "Custom GPT: MJ Prompt Master"
+title: "Custom GPT: Midjourney (MJ) Prompt Master"
 description: Introducing the ChatGPT GPT, Midjourey (MJ) Prompt Master
 category: "{{slug}}"
 author: Kol
