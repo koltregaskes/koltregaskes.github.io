@@ -12,7 +12,7 @@ description: ""
 
 <!--StartFragment-->
 
-zWelcome to Kol's Korner! My name is Kol, and I'm the passionate creator behind this cozy corner on the internet. With an insatiable curiosity and a strong desire to learn, my interests span across various fields, from artificial intelligence and cutting-edge technology to groundbreaking science, mesmerizing photography, and captivating art.
+Welcome to Kol's Korner! My name is Kol, and I'm the passionate creator behind this cozy corner on the internet. With an insatiable curiosity and a strong desire to learn, my interests span across various fields, from artificial intelligence and cutting-edge technology to groundbreaking science, mesmerizing photography, and captivating art.
 
 Driven by a profound fascination for the ever-evolving world of creativity and innovation, I've dedicated this space to showcase a diverse array of ideas, inspirations, and adventures. Through in-depth articles, intriguing conversations, and captivating visual content, my mission is to ignite a sense of wonder and foster an appreciation for the endless possibilities that abound in our world.
 
