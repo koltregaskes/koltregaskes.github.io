@@ -1,7 +1,7 @@
 ---
 date: 2024-01-27 13:49:45
 layout: post
-title: "**Navigating the Future: The Imperative of Controlling Powerful AI**"
+title: "Navigating the Future: The Imperative of Controlling Powerful AI"
 description: "Explore the delicate balance between advancing AI technology and
   ensuring its safety in our latest blog post, \"Navigating the Future: The
   Imperative of Controlling Powerful AI.\" Delve into the critical aspects of AI
@@ -14,6 +14,7 @@ description: "Explore the delicate balance between advancing AI technology and
   best interests."
 category: "{{slug}}"
 tags:
+  - AI
   - AI Control
   - Artificial Intelligence
   - AI Safety
