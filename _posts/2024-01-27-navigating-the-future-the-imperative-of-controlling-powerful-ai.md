@@ -12,6 +12,7 @@ description: "Explore the delicate balance between advancing AI technology and
   sheds light on the necessity of a safety-first approach in AI development,
   emphasizing collaborative efforts to forge a path where AI serves humanity's
   best interests."
+image: /assets/img/uploads/koltregaskes_navigating_the_future_the_imperative_of_controllin_831d9a6e-85d7-4e7c-bb53-70e64598b1b7.png
 category: "{{slug}}"
 tags:
   - AI
