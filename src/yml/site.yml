@@ -27,8 +27,8 @@ show_hero: false
 menu:
   - title: Home
     url: /
-  - title: Photography TEST
-    url: https://koltregaskesphotography.com/
+  - title: Photography
+    url: koltregaskesphotography.com/
   - title: AI Art
     url: http://axylusion.com
   - title: Custom GPTs
