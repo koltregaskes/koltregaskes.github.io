@@ -121,7 +121,7 @@ const theme = gulp.series(yamlTheme, jsonTheme, cleanTheme);
 /**
  * Main JS Task
  * 
- * All regular .js files are collected, minified and concatonated into one
+ * All regular .js files are collected, minified and concatenated into one
  * single scripts.min.js file (and sourcemap)
  */
 function mainJs() {
