@@ -7,7 +7,7 @@ description: Generative AI like ChatGPT brings huge opportunities but also risks
   for companies. This plain English guide explores key challenges and actionable
   mitigation strategies for secure, ethical and legal AI adoption.
 image: /assets/img/uploads/koltregaskes_a_concerned_businesswoman_standing_in_a_futuristic_c45e80df-c605-4dae-9d69-1781e07661f4.png
-category: "{{slug}}"
+category: ai
 tags:
   - ai risks
   - ai compliance
