@@ -15,7 +15,3 @@ author: Kol
 paginate: false
 ---
 Well hello there.  This is my new site  Do you like?
-
-T﻿his is just a placeholder for now until I get around to producing some content.  The site might be a little buggy so report any issues you might find via the Contact page from the left menu.
-
-A﻿nyway, ta for now. :-)
