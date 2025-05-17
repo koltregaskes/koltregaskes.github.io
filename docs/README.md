@@ -28,7 +28,7 @@ Navigate through the menu below as you wish, and most of all, have fun! 😄
   * [Posts](settings.md#posts)
   * [Advanced](settings.md#advanced)
 * [Post](post.md#post)
-  * [Creating a post](post.md#creating-a-post.md)
+  * [Creating a post](post.md#creating-a-post)
   * [Front Matter properties](post.md#front-matter-properties)
 * [Netlify CMS](netlify-cms.md#netlify-cms)
   * [Deploy with Netlify](netlify-cms.md#deploy-with-netlify)
