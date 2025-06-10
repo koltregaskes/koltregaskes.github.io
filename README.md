@@ -117,6 +117,8 @@ menu:
   - title: Feed
     url: /feed.xml
 
+> **Note:** External links in the `menu` should include the full `http://` or `https://` prefix so they aren't prefixed with your site's URL.
+
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: github_username
