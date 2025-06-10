@@ -27,8 +27,6 @@ show_hero: false
 menu:
   - title: Home
     url: /
-  - title: Photography test
-    url: koltregaskesphotography.com/
   - title: AI Art
     url: http://axylusion.com
   - title: Custom GPTs
@@ -45,6 +43,10 @@ menu:
     title: Threads
   - title: Pinterest
     url: https://www.pinterest.co.uk/koltregaskes/
+  - title: Photography
+    url: koltregaskesphotography.com/
+  - title: Links
+    url: https://beacons.ai/koltregaskes
   - title: About
     url: /about
   - title: Contact
