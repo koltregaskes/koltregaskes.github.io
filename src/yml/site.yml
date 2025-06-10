@@ -27,7 +27,7 @@ show_hero: false
 menu:
   - title: Home
     url: /
-  - title: Photography
+  - title: Photography test
     url: koltregaskesphotography.com/
   - title: AI Art
     url: http://axylusion.com
