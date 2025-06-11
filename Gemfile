@@ -10,3 +10,7 @@ gem "jekyll-paginate"
 gem "jekyll-paginate-content"
 gem "json"
 gem "webrick"
+
+# Test and build dependencies
+gem "rake"
+gem "minitest"
