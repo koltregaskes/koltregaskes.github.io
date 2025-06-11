@@ -7,8 +7,8 @@
 
     if (post && timeBar) {
         var lastScrollTop = 0;
-        var maxScrollTop = post.scrollHeight;
-
+        var maxScrollTop = Math.max(post.scrollHeight - window.innerHeight, 1);
+        
         var completed = timeBar.querySelector('.completed');
         var remaining = timeBar.querySelector('.remaining');
         var timeCompleted = timeBar.querySelector('.time-completed');
@@ -16,6 +16,7 @@
 
         document.addEventListener('scroll', function () {
             var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+            maxScrollTop = Math.max(post.scrollHeight - window.innerHeight, 1);
 
             if (scrollTop > lastScrollTop && shouldShow) {
                 timeBar.style.bottom = '0%';
